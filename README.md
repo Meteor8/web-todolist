@@ -5,7 +5,7 @@
 填上后端地址，如
 "http://meteora.ml/mysql"
 ## 1.修改to-do-list.php
-login_sql()函数中修改连接sql信息
+修改连接sql信息
 ```php
 $dbhost = '';  
 $dbuser = '';            
